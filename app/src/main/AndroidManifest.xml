@@ -22,7 +22,9 @@
         <activity android:name=".Maintenance"
             android:windowSoftInputMode="stateAlwaysHidden"
             android:parentActivityName=".MainActivity">
-
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
         </activity>
         <activity android:name=".Management"
             android:windowSoftInputMode="stateAlwaysHidden"
