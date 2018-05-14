@@ -48,20 +48,20 @@
         "source": "C:\\Users\\Khushwanth\\.android\\build-cache\\e0a45d1a6597e9ad40acf8a648a45c69028861bd\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\Khushwanth\\.android\\build-cache\\e0a45d1a6597e9ad40acf8a648a45c69028861bd\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
         "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\Khushwanth\\.android\\build-cache\\e0a45d1a6597e9ad40acf8a648a45c69028861bd\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Khushwanth\\.android\\build-cache\\e0a45d1a6597e9ad40acf8a648a45c69028861bd\\output\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Khushwanth\\.android\\build-cache\\e0a45d1a6597e9ad40acf8a648a45c69028861bd\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "C:\\Users\\Khushwanth\\.android\\build-cache\\e0a45d1a6597e9ad40acf8a648a45c69028861bd\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Khushwanth\\.android\\build-cache\\e0a45d1a6597e9ad40acf8a648a45c69028861bd\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maintenance.xml",
@@ -74,6 +74,10 @@
     {
         "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
         "source": "C:\\Users\\Khushwanth\\.android\\build-cache\\76fc227773491902475141561ef4fb6269830876\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_color_settings.xml",
+        "source": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\src\\main\\res\\layout\\content_color_settings.xml"
     },
     {
         "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
@@ -130,6 +134,10 @@
     {
         "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
         "source": "C:\\Users\\Khushwanth\\.android\\build-cache\\76fc227773491902475141561ef4fb6269830876\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_color_settings.xml",
+        "source": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\src\\main\\res\\layout\\activity_color_settings.xml"
     },
     {
         "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",

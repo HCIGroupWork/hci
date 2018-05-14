@@ -7,4 +7,5 @@
     <string name="cst_logo">CST Logo</string>
     <string name="maint">Maintenance</string>
     <string name="manag">Management</string>
+    <string name="title_activity_color_settings">ColorSettings</string>
 </resources>

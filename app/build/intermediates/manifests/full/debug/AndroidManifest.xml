@@ -40,13 +40,15 @@
         <activity
             android:name="bt.edu.cst.www.hcidesign.Management"
             android:parentActivityName="bt.edu.cst.www.hcidesign.MainActivity"
-            android:windowSoftInputMode="stateAlwaysHidden" >
-        </activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
         <activity
             android:name="bt.edu.cst.www.hcidesign.Contact"
             android:parentActivityName="bt.edu.cst.www.hcidesign.MainActivity"
-            android:windowSoftInputMode="stateAlwaysHidden" >
-        </activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="bt.edu.cst.www.hcidesign.ColorSettings"
+            android:label="@string/title_activity_color_settings"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>

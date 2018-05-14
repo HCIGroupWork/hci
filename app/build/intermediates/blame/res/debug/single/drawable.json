@@ -20,6 +20,10 @@
         "source": "C:\\Users\\Khushwanth\\.android\\build-cache\\e0a45d1a6597e9ad40acf8a648a45c69028861bd\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
+        "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_settings.png",
+        "source": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\src\\main\\res\\drawable\\ic_action_settings.png"
+    },
+    {
         "merged": "C:\\Users\\Khushwanth\\AndroidStudioProjects\\HCIDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
         "source": "C:\\Users\\Khushwanth\\.android\\build-cache\\e0a45d1a6597e9ad40acf8a648a45c69028861bd\\output\\res\\drawable\\notification_tile_bg.xml"
     },

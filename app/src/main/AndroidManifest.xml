@@ -19,23 +19,26 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Maintenance"
-            android:windowSoftInputMode="stateAlwaysHidden"
-            android:parentActivityName=".MainActivity">
+        <activity
+            android:name=".Maintenance"
+            android:parentActivityName=".MainActivity"
+            android:windowSoftInputMode="stateAlwaysHidden">
             <intent-filter>
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:name=".Management"
-            android:windowSoftInputMode="stateAlwaysHidden"
-            android:parentActivityName=".MainActivity">
-
-        </activity>
-        <activity android:name=".Contact"
-            android:windowSoftInputMode="stateAlwaysHidden"
-            android:parentActivityName=".MainActivity">
-
-        </activity>
+        <activity
+            android:name=".Management"
+            android:parentActivityName=".MainActivity"
+            android:windowSoftInputMode="stateAlwaysHidden"></activity>
+        <activity
+            android:name=".Contact"
+            android:parentActivityName=".MainActivity"
+            android:windowSoftInputMode="stateAlwaysHidden"></activity>
+        <activity
+            android:name=".ColorSettings"
+            android:label="@string/title_activity_color_settings"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

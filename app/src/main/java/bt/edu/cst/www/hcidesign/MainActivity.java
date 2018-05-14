@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
-            return true;
+            startActivity(new Intent(getApplication(),ColorSettings.class));
         }
 
         return super.onOptionsItemSelected(item);
